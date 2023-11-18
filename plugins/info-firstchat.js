@@ -13,10 +13,10 @@ await m.reply(`👋 Hola ${nombre}!!
 📅 Fecha: ${fecha}
 ⏰ Hora: ${tiempo}
 
-⚠️ *Nota:* no envíe spam al bot
-🧃 Escriba *.menu* para mostrar el menú 
+⚠️ *Nota:* no uses a su privado 
+🧃 Escriba *.recuerda que si deseas adquirir el bot puedes comunicarte con mi creador
   
-📝 ¿Quieres apoyar este proyecto para que siga actualizándose? enviar a través de: 
-*https://paypal.me/azami.19*`) 
+📝 ¿te ha gustado el bot y deseas adquirirlo? envie un mensaje al siguiente número: 
+*https://wa.me/522212009202*`) 
 user.pc = new Date * 1
 }
