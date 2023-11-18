@@ -45,14 +45,14 @@ global.ig = 'https://instagram.com/jxtxn17'
 global.md = 'https://instagram.com/jxtxn17'
 global.paypal = 'https://instagram.com/jxtxn17'
 global.git = 'https://instagram.com/jxtxn17'
-global.nn = 'https://chat.whatsapp.com/Dk5yfDPL66J3Oo99OWS9Wk' //Grupo ofc
-global.Curiosity = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Curiosity OFC
-global.hachiko = 'https://chat.whatsapp.com/LRQdtS7nKt89NBUPWJDjzh' //Hachiko OFC
-global.Lobo = 'https://chat.whatsapp.com/Li46EUQhA5tJqXEENfKPJd' //Lobo OFC
-global.nnn = 'https://chat.whatsapp.com/ENP021x0aR5HWvG1HpvlCo' //Turbo global
-global.channel = 'https://whatsapp.com/channel/0029VaDRDk2CBtxBVex2vB0Y' //TurboBot-MD
-global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity 
+global.nn = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Grupo ofc
+global.Curiosity = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Curiosity OFC
+global.hachiko = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Hachiko OFC
+global.Lobo = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Lobo OFC
+global.nnn = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Turbo global
+global.channel = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //TurboBot-MD
+global.nnnn = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //colaboración multi bots
+global.nnnnn = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //enlace curiosity 
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz
