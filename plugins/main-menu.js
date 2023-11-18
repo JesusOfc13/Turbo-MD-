@@ -34,8 +34,8 @@ const defaultMenu = {
 
 ╔═══[ ＩＮＦＯＢＯＴ ]═══╗
 ║╭──────────────
-║├⫹⫺ *Creador : Jxtxn17
-║├⫹⫺ *Numero:* wa.me/51929972576
+║├⫹⫺ *Creador : Gael
+║├⫹⫺ *Numero:* wa.me/
 ║├⫹⫺ *Tiempo Activo:* %uptime
 ║├⫹⫺ *Registrado :* %rtotalreg de %totalreg usuarios
 ║╰────────────── 
