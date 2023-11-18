@@ -40,11 +40,11 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_Mods'
-global.ig = 'https://instagram.com/azami_ofc'
-global.md = 'https://github.com/Jxtxn17/TurboBot-MD'
-global.paypal = 'https://paypal.me/Azami19'
-global.git = 'https://github.com/Jxtxn17'
+global.yt = 'https://instagram.com/jxtxn17'
+global.ig = 'https://instagram.com/jxtxn17'
+global.md = 'https://instagram.com/jxtxn17'
+global.paypal = 'https://instagram.com/jxtxn17'
+global.git = 'https://instagram.com/jxtxn17'
 global.nn = 'https://chat.whatsapp.com/Dk5yfDPL66J3Oo99OWS9Wk' //Grupo ofc
 global.Curiosity = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Curiosity OFC
 global.hachiko = 'https://chat.whatsapp.com/LRQdtS7nKt89NBUPWJDjzh' //Hachiko OFC
