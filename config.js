@@ -12,7 +12,7 @@ import { watchFile, unwatchFile } from 'fs'
  const __dirname = global.__dirname(import.meta.url) 
   
  global.owner =
-[['522212009202', '🍧𝙹𝚇𝚃𝚇𝙽 𝚃𝙱🍧', true],
+[['51907913096', '🍧𝙹𝚇𝚃𝚇𝙽 𝚃𝙱🍧', true],
 ['522212009202', '💖dali 𝙻𝙱💖', true], ['51907913096'],
 ['522212009202'],
 ['522212009202'],['522212009202']],
@@ -22,8 +22,8 @@ import { watchFile, unwatchFile } from 'fs'
  global.botNumberCode = '' //Ejemplo: +59309090909 
  global.confirmCode = ''
 
- global.animxscans = ['522212009202'] 
- global.suittag = ['522212009202'] 
+ global.animxscans = ['51907913096'] 
+ global.suittag = ['51907913096'] 
  global.mods = [] 
  global.prems = []
 
@@ -39,7 +39,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '522212009202'
+global.dev = '51907913096'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => { unwatchFile(file)
