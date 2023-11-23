@@ -14,7 +14,7 @@ off
 let caption = `Resultado: ${args[0]}`
 let img = `https://hadi-api.herokuapp.com/api/ssweb?url=${args[0]}&device=${args[1]}&full=${args[2]}`
 await conn.sendButton(m.chat, caption, wm, img, [
-                ['Siguiente', `${usedPrefix + command}`]
+                //['Siguiente', `${usedPrefix + command}`]
             ], m, fdoc)
 }
 handler.help = ['ss', 'ssf'].map(v => v + ' <url>')
