@@ -87,7 +87,7 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
     "¡Sorpresa! 🎉"
   ];
   const response = responses[Math.floor(Math.random() * responses.length)];
-  const cal = `━━━━⬣ *CALCULADO CON ÉXITO* ⬣━━━━
+  const cal = `━━━━⬣ *NIGHTCORE BOT* ⬣━━━━
 
 —◉ ${description}
 
