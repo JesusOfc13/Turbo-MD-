@@ -87,13 +87,13 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
     "¡Sorpresa! 🎉"
   ];
   const response = responses[Math.floor(Math.random() * responses.length)];
-  const cal = `━━━━⬣ *CALCULADOR* ⬣━━━━
+  const cal = `━━━━⬣ *CALCULADO CON ÉXITO* ⬣━━━━
 
 —◉ ${description}
 
 *"${response}"*
 
-━━━━⬣ *CALCULADO CON ÉXITO 🥳* ⬣━━━━`.trim()  
+━━━━⬣ *BY JESUS OFC* ⬣━━━━`.trim()  
   async function loading() {
 var hawemod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
