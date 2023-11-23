@@ -415,6 +415,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 };
 handler.help = ['menu'];
 handler.tags = ['menu'];
-handler.command = /^(menucompleto|)$/i;
+handler.command = /^(menucompleto2)$/i;
 export default handler;
                                                                                                                                                                                                                                                                 
