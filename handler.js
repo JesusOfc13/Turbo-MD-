@@ -108,7 +108,7 @@ import { generateWAMessageFromContent } from "@whiskeysockets/baileys"
  if (!('welcome' in chat)) 
  chat.welcome = true 
  if (!('detect' in chat)) 
- chat.detect = false 
+ chat.detect = true 
  if (!('detect2' in chat)) 
  chat.detect2 = true 
  if (!('sWelcome' in chat)) 
@@ -141,7 +141,7 @@ import { generateWAMessageFromContent } from "@whiskeysockets/baileys"
  global.db.data.chats[m.chat] = { 
  isBanned: false, 
  welcome: true, 
- detect: false, 
+ detect: true, 
  detect2: true,  
  sWelcome: '', 
  sBye: '', 
@@ -167,8 +167,8 @@ import { generateWAMessageFromContent } from "@whiskeysockets/baileys"
  if (!('autoread2' in settings)) settings.autoread2 = false 
  if (!('restrict' in settings)) settings.restrict = false 
  if (!('antiCall' in settings)) settings.antiCall = false 
- if (!('antiPrivate' in settings)) settings.antiPrivate = false 
- if (!('modejadibot' in settings)) settings.modejadibot = true   
+ if (!('antiPrivate' in settings)) settings.antiPrivate = true 
+ if (!('modejadibot' in settings)) settings.modejadibot = false   
  if (!('muto' in user)) user.muto = false 
  if (!('status' in settings)) settings.status = 0 
  } else global.db.data.settings[this.user.jid] = { 
@@ -177,8 +177,8 @@ import { generateWAMessageFromContent } from "@whiskeysockets/baileys"
  autoread2: false, 
  restrict: false,  
  antiCall: false, 
- antiPrivate: false, 
- modejadibot: true, 
+ antiPrivate: true, 
+ modejadibot: false, 
  muto: false, 
  status: 0 
   
