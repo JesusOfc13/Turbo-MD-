@@ -336,7 +336,7 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '1'
  conn.ev.off('creds.update', conn.credsUpdate) 
  } 
   
- conn.welcome = '*『Bienvenido A *${metadata.subject}*』\n\nUn gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para no tener ningun problema 🧐_\n\n*Solo disfrutar de este grupo y divertite 🥳*' 
+ conn.welcome = '*[ NUEVO MIEMBRO ]\n\nUn gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para no tener ningun problema 🧐_\n\n*Solo disfrutar de este grupo y divertite 🥳*' 
  conn.bye = '*• Gracias por haber sido parte del grupo*\n*━━━━━━━━━━━━━━━━━━━━━━━━━*\n\n🍧 *• Nombre:* @user\n🗓️ *• Fecha:* @date\n⏰ *• Hora:* @time' 
  conn.spromote = '⚠️ *@user SE SUMA AL GRUPO DE ADMINS*' 
  conn.sdemote = '⚠️ *@user ABANDONA EL GRUPO DE ADMINS*' 
