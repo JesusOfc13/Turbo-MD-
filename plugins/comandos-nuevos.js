@@ -3,5 +3,5 @@ conn.sendMessage(m.chat, {text:'*HOLA USUARIO ESTOS SON LOS COMANDOS RECIÉN AGR
 }
 handler.help = ['pagina']
 handler.tags = ['info']
-handler.command = /^nuevo$/i
+handler.command = /^nuevo|comandos|comandosnuevos$/i
 export default handler
