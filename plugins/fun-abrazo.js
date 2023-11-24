@@ -12,6 +12,6 @@ const handler = async (m, {conn, usedPrefix, command, text}) => {
 };
 handler.help = ['abrazo @user'];
 handler.tags = ['fun'];
-handler.command = ['abbraccio'];
+handler.command = ['abrazo'];
 handler.group = true;
 export default handler;
