@@ -29,7 +29,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   *►❄ Owner : Jesus*
   *►❄ Creador : +52 221 200 9202*
   *►❄ Editor : +51 906 528 530*
-  *►❄ Turbo X Samurai*
+  *►❄ Turbo X Alacran*
   ◣━━━━━━━━━━━◢
 
   ◤━━━━━━━━━━━◥
